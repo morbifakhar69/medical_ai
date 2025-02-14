@@ -1,0 +1,10 @@
+#OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "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"
+ASSISTANT_ID = None
+UPLOAD_FOLDER="uploaded_images"
+STATE_FOLDER="state_data"
+SCIEBO_USERNAME="murtaza.fakhruddin@tu-dortmund.de"
+SCIEBO_PASSWORD="VXNNU-YDUQJ-XMLMZ-MNECJ" #this is app password
+SCIEBO_APPNAME="medical_ai"
+SCIEBO_IMAGE_BASEURL= f"https://tu-dortmund.sciebo.de/remote.php/dav/files/{SCIEBO_USERNAME}/medical_ai/images/"
+SCIEBO_STATE_BASEURL= f"https://tu-dortmund.sciebo.de/remote.php/dav/files/{SCIEBO_USERNAME}/medical_ai/state_data/"
